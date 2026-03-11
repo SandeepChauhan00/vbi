@@ -58,6 +58,7 @@ For detailed installation instructions including:
 - **Troubleshooting**
 
 See our comprehensive [Installation Guide](https://vbi.readthedocs.io/latest/installation.html) in the documentation.
+For Google Colab and EBRAINS specifics, please refer to the [Platform Setup Guide](docs/platform_setup.md).
 
 ### Quick Verification
 
